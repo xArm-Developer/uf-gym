@@ -26,6 +26,15 @@ The algorithm, hyper-parameters, task, model name, saving directories etc. can a
 
 Currently only xArm6 and xArm7 (with gripper) are supported, other models will be added in the future.
 
+## Training Results Demo
+
+|                                  |                                                |
+| :------------------------------: | :--------------------------------------------: |
+|         `XArm6Reach-v3`          |                 `XArm6Push-v3`                 |
+| ![XArm6Reach-v3](doc/img/xarm6_reach_ddpg.gif) |  ![XArm6Push-v3](doc/img/xarm6_push_tqc.gif)         |
+|         `XArm7Slide-v3`          |             `XArm7PickAndPlace-v3`             |
+| ![XArm7Slide-v3](doc/img/xarm7_slide_tqc.gif) | ![XArm7PickAndPlace-v3](doc/img/xarm7_pickNplace_tqc.gif) |
+
 
 ## Pre-trained models
 
