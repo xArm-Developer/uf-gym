@@ -38,4 +38,4 @@ Currently only xArm6 and xArm7 (with gripper) are supported, other models will b
 
 ## Pre-trained models
 
-Pre-trained models will be uploaded to [Hugging Face](https://huggingface.co) platform later.
+Some pre-trained models are uploaded and available on [Hugging Face](https://huggingface.co/UFACTORY-Developer) platform.
